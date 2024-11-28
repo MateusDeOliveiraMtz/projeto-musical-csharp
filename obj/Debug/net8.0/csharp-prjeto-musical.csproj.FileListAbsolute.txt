@@ -1,0 +1,14 @@
+C:\Users\Mateus\OneDrive\Área de Trabalho\csharp-prjeto-musical\bin\Debug\net8.0\csharp-prjeto-musical.exe
+C:\Users\Mateus\OneDrive\Área de Trabalho\csharp-prjeto-musical\bin\Debug\net8.0\csharp-prjeto-musical.deps.json
+C:\Users\Mateus\OneDrive\Área de Trabalho\csharp-prjeto-musical\bin\Debug\net8.0\csharp-prjeto-musical.runtimeconfig.json
+C:\Users\Mateus\OneDrive\Área de Trabalho\csharp-prjeto-musical\bin\Debug\net8.0\csharp-prjeto-musical.dll
+C:\Users\Mateus\OneDrive\Área de Trabalho\csharp-prjeto-musical\bin\Debug\net8.0\csharp-prjeto-musical.pdb
+C:\Users\Mateus\OneDrive\Área de Trabalho\csharp-prjeto-musical\obj\Debug\net8.0\csharp-prjeto-musical.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mateus\OneDrive\Área de Trabalho\csharp-prjeto-musical\obj\Debug\net8.0\csharp-prjeto-musical.AssemblyInfoInputs.cache
+C:\Users\Mateus\OneDrive\Área de Trabalho\csharp-prjeto-musical\obj\Debug\net8.0\csharp-prjeto-musical.AssemblyInfo.cs
+C:\Users\Mateus\OneDrive\Área de Trabalho\csharp-prjeto-musical\obj\Debug\net8.0\csharp-prjeto-musical.csproj.CoreCompileInputs.cache
+C:\Users\Mateus\OneDrive\Área de Trabalho\csharp-prjeto-musical\obj\Debug\net8.0\csharp-prjeto-musical.dll
+C:\Users\Mateus\OneDrive\Área de Trabalho\csharp-prjeto-musical\obj\Debug\net8.0\refint\csharp-prjeto-musical.dll
+C:\Users\Mateus\OneDrive\Área de Trabalho\csharp-prjeto-musical\obj\Debug\net8.0\csharp-prjeto-musical.pdb
+C:\Users\Mateus\OneDrive\Área de Trabalho\csharp-prjeto-musical\obj\Debug\net8.0\csharp-prjeto-musical.genruntimeconfig.cache
+C:\Users\Mateus\OneDrive\Área de Trabalho\csharp-prjeto-musical\obj\Debug\net8.0\ref\csharp-prjeto-musical.dll
